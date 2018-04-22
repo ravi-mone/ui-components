@@ -1,11 +1,11 @@
 /* eslint-disable */
 import React from 'react';
 import PropTypes from 'prop-types';
-import Checkbox from '../../components/Checkbox';
-import Input from '../../components/input';
-import {REMEMBER_ME} from "./contants.login";
-import { setCookie, getCookie, removeCookie, isEmpty } from '../../helper-classes/utility-functions';
-
+import Checkbox from './Checkbox';
+import Input from './Input';
+import { setCookie, getCookie, removeCookie, isEmpty } from './utility-functions';
+import './LoginForm.css'
+const REMEMBER_ME = 'REMEMBER_ME';
 class LoginForm extends React.Component {
     constructor(props) {
         super(props);
