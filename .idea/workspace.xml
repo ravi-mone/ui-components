@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f5b0f4a-ab8f-4800-83f2-bcd61529b57c" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/components/Checkbox.jsx" afterPath="$PROJECT_DIR$/src/components/Checkbox.js" />
-      <change beforePath="$PROJECT_DIR$/src/components/LoginForm.jsx" afterPath="$PROJECT_DIR$/src/components/LoginForm.js" />
+      <change beforePath="$PROJECT_DIR$/src/components/Input.jsx" afterPath="$PROJECT_DIR$/src/components/Input.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -220,12 +218,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1524406960318</updated>
-      <workItem from="1524406964114" duration="2755000" />
+      <workItem from="1524406964114" duration="2773000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2755000" />
+    <option name="totallyTimeSpent" value="2773000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
